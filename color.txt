@@ -6,3 +6,4 @@ Orange
 Yellow
 pink
 purple
+These are the colors of the Rainbow
